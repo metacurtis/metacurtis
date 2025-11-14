@@ -109,7 +109,7 @@ Patterns include:
 
 - 🌐 Website: https://curtiswhorton.com  
 - 🧠 MetaCurtis Engine: https://metacurtis.com  
-- 💼 LinkedIn: https://linkedin.com/in/curtisworton  
+- 💼 LinkedIn: https://linkedin.com/in/curtiswhorton3  
 - 🐦 Twitter: @CurtisWhorton  
 
 Always open to conversations about deterministic AI workflows, WebGL performance, and AI-native engineering.
